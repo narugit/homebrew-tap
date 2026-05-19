@@ -1,8 +1,8 @@
 class Smctemp < Formula
     desc "Check Temperature by using Apple System Management Control (Smc) tool"
     homepage "https://github.com/narugit/smctemp"
-    url "https://github.com/narugit/smctemp/archive/refs/tags/0.6.0.tar.gz"
-    sha256 "834be81fab5d85e32bdc6eb13cd2664cb2f82b5b2e7cacd45401dcd5ccaa06f4"
+    url "https://github.com/narugit/smctemp/archive/refs/tags/0.7.0.tar.gz"
+    sha256 "4ca4eaade1964f2d4d39c5fc21ccb357a1966c5c2b8bb1480b08a28d47f8d4dd"
     license "GPL-2.0-only"
 
     depends_on :macos
